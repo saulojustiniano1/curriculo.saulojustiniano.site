@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: 'Saulo Justiniano - Currículo',
+  title: 'Currículo - Saulo Justiniano',
   description: 'Currículo de Saulo Justiniano - Desenvolvedor Full Stack',
 };
 
